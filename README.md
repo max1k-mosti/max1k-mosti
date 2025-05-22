@@ -2,7 +2,8 @@
 	<a href="https://github.com/max1k-mosti" >
 		<picture>
 			<source media="prefers-color-scheme: dark" srcset="https://github.com/user-attachments/assets/ac03385e-c56b-487c-8484-b48679ee09f7">
-			<img src="https://github.com/user-attachments/assets/76a82b6b-73dc-4514-8807-9fb80032cc2f" alt="Maksym Mostypan"/>
+			<source media="prefers-color-scheme: light" srcset="https://github.com/user-attachments/assets/76a82b6b-73dc-4514-8807-9fb80032cc2f">
+			<img src="https://github.com/user-attachments/assets/ac03385e-c56b-487c-8484-b48679ee09f7" alt="Maksym Mostypan"/>
 		</picture>
 	</a>
 </p>
@@ -79,6 +80,7 @@
     	<img src="https://github.com/user-attachments/assets/2e0ec72d-cb2e-4288-ba00-534878b04746" alt="Most Used Language"/>
   </picture>
 </h2>
+
  <picture>
     	<source media="prefers-color-scheme: dark" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=max1k-mosti&hide_title=true&hide_border=true&bg_color=FFFFFF&text_color=0D1117">
     	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=max1k-mosti&hide_title=true&hide_border=true&bg_color=0D1117&text_color=FFFFFF" alt="Most Used Language - table"/>
