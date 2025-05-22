@@ -47,7 +47,7 @@
   </picture>	
 	<picture>
     	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/70ac3b08-dcc4-4d24-a729-aa39faba58e0">
-    	<img src="(https://github.com/user-attachments/assets/e61d8148-ca04-4e8e-a714-62a490166df8)" alt="React"/>
+    	<img src="https://github.com/user-attachments/assets/e61d8148-ca04-4e8e-a714-62a490166df8" alt="React"/>
   </picture>	
 	<picture>
     	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/a3268314-94e9-443c-a0a7-2f1565f1cca2">
